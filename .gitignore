@@ -1,0 +1,12 @@
+# local env files
+.env*
+
+# misc 
+.vscode
+
+.DS_Store
+*.log
+*.sqlite3
+config/database.yml
+db/schema.rb
+tmp/**/*
